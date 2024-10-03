@@ -5,7 +5,6 @@ from dataclasses import dataclass
 lista_dados = []
 lista_filhos = []
 lista__salario = []
-contador = 0
 def limpando_terminal():
     os.system("cls || clear")
 
